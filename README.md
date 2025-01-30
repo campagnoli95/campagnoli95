@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @campagnoli95
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning  Rocketseat
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Analise de Desenvolvimento de Sistemas | Python
+- 💞️ I’m looking to collaborate on projetos em python e dicas.
+- 📫 How to reach me Linkedln
 
 <!---
 campagnoli95/campagnoli95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
